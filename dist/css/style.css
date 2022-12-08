@@ -47,6 +47,10 @@ nav {
   font-size: 24px;
 }
 
+.nav .nav-logo span {
+  color: #8b5516;
+}
+
 nav .nav .nav-menu {
   display: flex;
   align-items: center;
